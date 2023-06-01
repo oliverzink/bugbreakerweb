@@ -38,8 +38,8 @@ export default function Home() {
         here
       </a>
       </p>
-      <p className="font-semibold text-lg mb-5 font-normal text-gray-200 lg:text-xl">
-        Now you're ready to start debugging!
+      <p className="font-semibold text-lg mb-5 text-gray-200 lg:text-xl">
+        Now you&apos;re ready to start debugging!
       </p>
       </div>
       <div className="min-h-3/4 mb-5">
