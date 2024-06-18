@@ -16,6 +16,9 @@ export default function Home() {
         <p className="text-lg mb-5 font-normal text-gray-500 lg:text-xl dark:text-gray-400"> 
           Bugbreaker Elevates Developer Potential with AI-Powered Error Analysis.
         </p>
+        <p className="text-lg mb-5 font-normal text-gray-500 lg:text-xl dark:text-gray-400"> 
+          Choose from commercial LLM APIs or utilize your own local models (availability coming soon!)
+        </p>
 
         <div className='mt-0 grid h-3/4 place-items-center shadow-lg'>
           <Image src={bugbreakerdemo} alt='' width={850} height={300}></Image>
